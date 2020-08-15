@@ -4,9 +4,9 @@ A Giphy search interface.
 Demo: https://sophievu2711.github.io/finding-giphy/
 
 ## User Manual
-![first](https://github.com/sophievu2711/finding-giphy/blob/master/src/assets/main.png)
-![second](https://github.com/sophievu2711/finding-giphy/blob/master/src/assets/adjust.png)
-![third](https://github.com/sophievu2711/finding-giphy/blob/master/src/assets/gif.png)
+![first](https://raw.githubusercontent.com/sophievu2711/finding-giphy/master/src/assets/main.PNG)
+![second](https://raw.githubusercontent.com/sophievu2711/finding-giphy/master/src/assets/adjust.PNG)
+![third](https://raw.githubusercontent.com/sophievu2711/finding-giphy/master/src/assets/gif.PNG)
 
 ## Functionalities
 
