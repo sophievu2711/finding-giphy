@@ -1,0 +1,14 @@
+body{
+  min-height: 100vh;
+  max-width: 90vw;
+  color: white;
+  background-image: linear-gradient(to right top, #845EC2, #D65DB1, #FF9671, #FFC75F, #F9F871);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+h1 {
+  font-size: 5rem;
+}
