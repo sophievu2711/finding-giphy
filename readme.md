@@ -1,6 +1,7 @@
 # Finding Giphy
 
 A Giphy search interface.
+Demo: https://sophievu2711.github.io/finding-giphy/
 
 ## Functionalities
 
